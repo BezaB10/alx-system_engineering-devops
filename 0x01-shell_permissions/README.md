@@ -8,7 +8,7 @@ This directory contains **shell permissions**
 
 **3-new_owner** changes the owner of the file *hello* to the user *betty*.
 
-**4-empty** creates an empity file called 8hello*.
+**4-empty** creates an empity file called *hello*.
 
 **5-execute** adds execute permission to the owner of the file *hello*.
 
