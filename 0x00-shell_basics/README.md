@@ -1,10 +1,10 @@
 This directory contains files that hold **shell basic *commands*** which perform tasks as follows;
 
-**0-current_working_directory** prints the path name of the current working directory.
+**0-current_working_directory**; To print the path name of the current working directory.
 
-**1-listit** display the containts list of the current directory.
+**1-listit**; To display the containts list of the current directory.
 
-**2-bring_me_home** changes the working directory to the user's home directory.
+**2-bring_me_home**; To change the working directory to the user's home directory.
 
 **3-listfiles** display current directory conteints in a long format.
 
