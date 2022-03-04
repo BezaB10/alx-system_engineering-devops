@@ -1,1 +1,1 @@
-This repo contains shell basic *commands*, *permissions* , *redirections*, *variables* and *expressions*
+This repo contains shell basic *commands* and *permissions*
