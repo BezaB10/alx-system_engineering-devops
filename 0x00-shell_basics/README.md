@@ -1,4 +1,4 @@
-This repo contains **shell basic *commands***
+This directory contains files that hold **shell basic *commands*** which perform tasks as follows;
 
 **0-current_working_directory** prints the path name of the current working directory.
 
